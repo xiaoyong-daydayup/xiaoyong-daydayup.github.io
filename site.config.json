@@ -1,7 +1,7 @@
 {
   "title": "具身手记",
   "subtitle": "EMBODIED NOTES",
-  "description": "我的人形机器人学习记录：基础知识、文献阅读、debug 经历，以及学习过程中的想法。",
+  "description": "我的人形机器人学习记录：基础知识、文献阅读、论文写作、debug 经历，以及学习过程中的想法。",
   "author": "XiaoyongZhang",
   "github": "xiaoyong-daydayup",
   "repoUrl": "https://github.com/xiaoyong-daydayup/xiaoyong-daydayup.github.io",
@@ -14,6 +14,7 @@
   "categories": [
     { "slug": "fundamentals", "title": "基础知识学习", "description": "记下概念、推导，以及自己还没弄明白的地方。" },
     { "slug": "papers", "title": "文献分享", "description": "保存读过的论文、阅读批注与值得回看的思路。" },
+    { "slug": "writing", "title": "论文写作", "description": "记录论文写作中的取舍、修改过程与个人心得。" },
     { "slug": "debug", "title": "debug 经历", "description": "记录问题现场、排查过程、修复方法和遗留疑问。" },
     { "slug": "thoughts", "title": "观点闲谈", "description": "整理阶段性的想法、学习感受与个人判断。" }
   ]
