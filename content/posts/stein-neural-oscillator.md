@@ -363,6 +363,8 @@ $$
 
 这就是**相位响应曲线（Phase Response Curve，PRC）**研究的内容。
 
+后续笔记：[Stein 神经元的 PRC、伴随方程与耦合函数](/posts/stein-prc-and-coupling/)。
+
 下一课推荐顺序：
 
 1. 在单个 Stein 神经元形成稳定振荡后，选择某个相位，施加一次很短的小刺激；
